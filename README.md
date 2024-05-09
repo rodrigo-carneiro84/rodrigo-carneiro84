@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rodrigo Carneiro.
 
-- 🔭 Atualmente trabalho com Gestão de Ativos de TI, mas estou direcionando os estudos para Cibersegurança.
-- 🌱 Estou estudando Redes de Computadores na FATEC Osasco e o meu objetivo é tirar as certificações CCNA, AZ-900, GCP Foundations e AWS Pratictioner até o final de 2024. 
+- 🔭 Atualmente trabalho com Gestão de Ativos de TI, mas estou direcionando os estudos para segurança da informação, principalmente com foco em cloud.
+- 🌱 Estou estudando Redes de Computadores na FATEC Osasco. 
 - 👯 Pretendo compartilhar por aqui scripts para automação em redes, cloud, cibersegurança e outros.
 
 <br>
