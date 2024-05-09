@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo Carneiro.
 
-- 🔭 Atualmente trabalho com Gestão de Ativos de TI, mas estou direcionando os estudos para segurança da informação, principalmente com foco em cloud.
+- 🔭 Atualmente trabalho com gestão de ativos de TI, mas estou direcionando os estudos para segurança da informação, principalmente com foco em cloud.
 - 🌱 Estou estudando Redes de Computadores na FATEC Osasco. 
 - 👯 Pretendo compartilhar por aqui scripts para automação em redes, cloud, cibersegurança e outros.
 
